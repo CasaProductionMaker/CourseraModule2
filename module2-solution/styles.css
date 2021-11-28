@@ -37,6 +37,7 @@ p {
   padding-bottom: 1px;
   padding-top: 1px;
   font-size: 30px;
+  overflow: hidden;
 }
 .chicken {
   background-color: turquoise;
